@@ -1,0 +1,26 @@
+# Vault secrets
+vault-keys.json
+vault-keys/
+
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+
+# Docker volumes
+data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
